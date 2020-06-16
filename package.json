@@ -1,0 +1,30 @@
+{
+  "name": "portfolio-appsbymarcia",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "if-env": "^1.0.4",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "if-env NODE_ENV=production && npm run start:prod || npm run start:dev",
+    "start:prod": "node server.js",
+    "start:dev": "nodemon --ignore 'client' & npm run client",
+    "client": "cd /home/appsbyma/apps/portfolio/client && npm run start",
+    "install": "cd /home/appsbyma/apps/portfolio/client && npm install",
+    "build": "cd /home/appsbyma/apps/portfolio/client && npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarciaAdler/portfolio-appsbymarcia.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarciaAdler/portfolio-appsbymarcia/issues"
+  },
+  "homepage": "https://appsbymarcia.com"
+}
