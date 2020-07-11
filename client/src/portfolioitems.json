@@ -25,7 +25,7 @@
     "id": 2,
     "name": "Google Book Search",
     "image": "../images/googelbooksearch.png",
-    "titleimage": "./images/googlebooksearchtitle.png",
+    "titleimage": "../images/googlebooksearchtitle.png",
     "link": "https://stormy-springs-52175.herokuapp.com/",
     "github": "https://github.com/MarciaAdler/GoogleBooksSearch",
     "shortdescription": "Allows users to search for books by title and save favorites using the Google Book API.",
