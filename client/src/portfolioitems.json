@@ -6,7 +6,7 @@
     "titleimage": "../images/communityessetitleicon.png",
     "link": "https://community.appsbymarcia.com",
     "github": "https://github.com/MarciaAdler/CommunityEsse",
-    "shortdescription": "Complete MERN and CRUD property management app that allow property managers, employees, and tenants better communicate.",
+    "shortdescription": "Complete MERN and CRUD property management app that allows property managers, employees, and tenants better communicate.",
     "technologies": "React, Bootstrap, Sass, JavaScript, Express, NodeJS, MySQL (Sequelize)"
   },
   {
