@@ -1,5 +1,15 @@
 [
   {
+    "id": 8,
+    "name": "Community Esse",
+
+    "titleimage": "../images/communityessetitleicon.png",
+    "link": "https://community.appsbymarcia.com",
+    "github": "https://github.com/MarciaAdler/CommunityEsse",
+    "shortdescription": "Complete MERN and CRUD property management app that allow property managers, employees, and tenants better communicate.",
+    "technologies": "React, Bootstrap, Sass, JavaScript, Express, NodeJS, MySQL (Sequelize)"
+  },
+  {
     "id": 7,
     "name": "SingAlong Karaoke",
     "image": "./images/SingAlong-homepage.png",
