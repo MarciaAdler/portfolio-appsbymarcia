@@ -21,7 +21,7 @@ function About() {
       <hr />
       <AboutImage />
       <p style={styles.p}>
-        I am a Product Manager / Software Engineer / People Experience
+        I am a Product Manager / Software Engineer / Strategy Consultant
         professional with a Bachelor’s in Business and Technology, an MBA with
         focuses in finance and human capital, a background in consulting and a
         certificate for Full Stack Web Development from Columbia University. I
