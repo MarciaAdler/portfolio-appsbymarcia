@@ -2,7 +2,6 @@
   {
     "id": 8,
     "name": "Community Esse",
-
     "titleimage": "../images/communityessetitleicon.png",
     "link": "https://community.appsbymarcia.com",
     "github": "https://github.com/MarciaAdler/CommunityEsse",
@@ -30,6 +29,15 @@
     "shortdescription": "Allows users to search for foods and recipes and retrieve nutritional information.",
     "description": "hungry much? is an app that allows users to search for recipes by main ingredient and get a list of recipes that include the main ingredient along with the nutritional information and a link to the recipe.  Users can save recipes for future reference.  Users can also search for food items and get nutritional information per serving for food items",
     "technologies": "HTML, CSS, JavaScript, JQuery, API"
+  },
+  {
+    "id": 9,
+    "name": "Layla's Game",
+    "titleimage": "../images/LaylasGameimage.png",
+    "link": "https://game.appsbymarcia.com",
+    "github": "https://github.com/MarciaAdler/laylagame",
+    "shortdescription": "Kid's math game that generates a random number and the player needs to add numbers to reach the random number to win.",
+    "technologies": "React, Bootstrap, JavaScript, Express, NodeJS"
   },
   {
     "id": 2,
