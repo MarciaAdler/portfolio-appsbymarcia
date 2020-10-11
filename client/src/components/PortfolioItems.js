@@ -6,6 +6,7 @@ const styles = {
     width: "auto",
     borderTopLeftRadius: "20px",
     borderTopRightRadius: "20px",
+    maxWidth: "100%",
   },
   background: {
     opacity: "90%",
@@ -14,6 +15,7 @@ const styles = {
   },
   content: {
     color: "black",
+    height: "170px",
   },
   cardheader: {
     borderBottom: "0",
@@ -21,8 +23,8 @@ const styles = {
     textAlign: "center",
   },
   card: {
-    height: "280px",
-    width: "350px",
+    height: "290px",
+    width: "360px",
     backgroundColor: "#FFFBFC",
     borderRadius: "20px",
   },

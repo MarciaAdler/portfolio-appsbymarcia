@@ -28,7 +28,7 @@ class Portfolio extends Component {
           interest.
         </p>
         <hr />
-        <div className="row">
+        <div className="row justify-content-center">
           {this.state.portfolioitems.map((item) => (
             <PortfolioItems
               key={item.id}
