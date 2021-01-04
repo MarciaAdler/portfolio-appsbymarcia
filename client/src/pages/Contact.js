@@ -36,8 +36,9 @@ function Contact() {
         <h1 style={styles.title}>Contact</h1>
         <p style={styles.content}>
           Below is my contact information. Please feel free to reach out to me
-          through any of the links below. I'm open to opportunities, including
-          opportunities to collaborate with others on projects.
+          through any of the links below. I'm open to many different
+          opportunities, including opportunities to collaborate with others on
+          projects.
         </p>
         <hr />
         <section>

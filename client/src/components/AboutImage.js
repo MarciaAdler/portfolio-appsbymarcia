@@ -6,7 +6,7 @@ const styles = {
   image: {
     height: "200px",
     marginRight: "0px",
-    borderRadius: "5em",
+    borderRadius: "50%",
     marginBottom: "20px"
   }
 };
