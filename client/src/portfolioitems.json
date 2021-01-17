@@ -44,7 +44,7 @@
     "titleimage": "../images/LaylasGameimage.png",
     "link": "https://game.appsbymarcia.com",
     "github": "https://github.com/MarciaAdler/laylagame",
-    "shortdescription": "Kid's math game that generates a random number and the player needs to add numbers to reach the random number to win.",
+    "shortdescription": "Kid's games that help with math and numbers.",
     "technologies": "React, Bootstrap, JavaScript, Express, NodeJS"
   },
   {
