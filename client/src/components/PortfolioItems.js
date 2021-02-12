@@ -24,15 +24,15 @@ const styles = {
   },
   card: {
     height: "290px",
-    width: "360px",
+    width: "365px",
     backgroundColor: "#FFFBFC",
     borderRadius: "20px",
   },
   tech: {
-    fontSize: "11px",
+    fontSize: "10px",
   },
   desc: {
-    fontSize: "13px",
+    fontSize: "12px",
   },
   link: {
     display: "inline-block",
