@@ -1,0 +1,20 @@
+.links {
+  color: #433a3f;
+  font-weight: bold;
+}
+.links:hover {
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+}
+
+.header {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 1;
+}
+
+.container {
+  margin-top: 220px;
+}

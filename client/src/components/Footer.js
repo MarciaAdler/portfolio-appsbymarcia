@@ -1,13 +1,13 @@
 import React from "react";
 const styles = {
   footer: {
-    backgroundColor: "white",
+    backgroundColor: "#a9aca9",
     height: "50px",
     clear: "both",
     width: "100%",
     bottom: "0",
     paddingTop: "25px",
-    opacity: "55%",
+    // opacity: "55%",
   },
 };
 function Footer() {

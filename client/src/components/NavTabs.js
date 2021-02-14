@@ -1,10 +1,11 @@
 import React from "react";
 import { Link, useLocation } from "react-router-dom";
+import "./NavTabsstyle.css";
 const styles = {
   nav: {
-    backgroundColor: "lightgrey",
+    backgroundColor: "#dad6d6",
     padding: "10px",
-    opacity: "50%",
+    // opacity: "70%",
     fontSize: "20px",
   },
 };
@@ -16,34 +17,21 @@ function NavTabs() {
 
   return (
     <ul className="nav justify-content-center" style={styles.nav}>
-      <li className="nav-item">
-        <Link
-          to="/"
-          className={location.pathname === "/" ? "nav-link active" : "nav-link"}
-        >
+      <li className="nav-link tab-link">
+        <Link className="links" style={styles.link} to="/">
           About
         </Link>
       </li>
-      <li className="nav-item" style={styles.link}>
-        <Link
-          to="/portfolio"
-          className={
-            location.pathname === "/portfolio" ? "nav-link active" : "nav-link"
-          }
-        >
+      <li className="nav-link tab-link">
+        <Link className="links" style={styles.link} to="/portfolio">
           Portfolio
         </Link>
       </li>
-      <li className="nav-item">
-        <Link
-          to="/contact"
-          className={
-            location.pathname === "/contact" ? "nav-link active" : "nav-link"
-          }
-        >
+      {/* <li className="nav-item nav-link">
+        <Link style={styles.link} to="/contact">
           Contact
         </Link>
-      </li>
+      </li> */}
     </ul>
   );
 }

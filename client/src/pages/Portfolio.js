@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import PortfolioItems from "../components/PortfolioItems";
 import portfolioitems from "../portfolioitems.json";
-
+import "../components/NavTabsstyle.css";
 const styles = {
   container: {
     marginBottom: "50px",
@@ -20,7 +20,7 @@ class Portfolio extends Component {
 
   render() {
     return (
-      <div className="container mt-2 mb-5" style={styles.container}>
+      <div className="container mb-5" style={styles.container}>
         <h1 style={styles.title}>Portfolio</h1>
         <p style={styles.title}>
           Below are samples of some of my projects. Please feel free to reach
