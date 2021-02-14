@@ -3,11 +3,11 @@ import "./NavTabsstyle.css";
 import NavTabs from "./NavTabs";
 const styles = {
   header: {
-    backgroundColor: "#a9aca9",
-    fontSize: "50px",
-    color: "black",
+    fontSize: "40px",
+    fontWeight: "bold",
+    color: "#161925",
     textAlign: "center",
-    paddingTop: "20px",
+    paddingTop: "10px",
     paddingBottom: "10px",
     flexDirection: "row",
     alignContent: "center",
@@ -26,7 +26,7 @@ const styles = {
     backgroundColor: "#a9aca9",
     // opacity: "40%",
     textAlign: "center",
-    paddingBottom: "20px",
+    paddingBottom: "10px",
   },
 };
 function Header() {

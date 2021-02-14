@@ -1,5 +1,5 @@
 import React from "react";
-
+import "./NavTabsstyle.css";
 const styles = {
   images: {
     height: "60px",

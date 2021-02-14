@@ -4,7 +4,7 @@
 }
 .links:hover {
   text-decoration: none;
-  color: white;
+  color: grey;
   font-weight: bold;
 }
 
@@ -13,8 +13,13 @@
   top: 0;
   width: 100%;
   z-index: 1;
+  background-color: #a9aca9;
 }
 
 .container {
-  margin-top: 220px;
+  margin-top: 190px;
+}
+
+.card {
+  margin: 0 auto;
 }

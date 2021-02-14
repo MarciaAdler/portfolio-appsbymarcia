@@ -4,7 +4,6 @@ import "./NavTabsstyle.css";
 const styles = {
   nav: {
     backgroundColor: "#dad6d6",
-    padding: "10px",
     // opacity: "70%",
     fontSize: "20px",
   },
