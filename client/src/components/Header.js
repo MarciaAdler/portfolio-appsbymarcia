@@ -23,7 +23,7 @@ const styles = {
     marginRight: "20px",
   },
   links: {
-    backgroundColor: "#a9aca9",
+    backgroundColor: "#8ea8c3",
     // opacity: "40%",
     textAlign: "center",
     paddingBottom: "10px",

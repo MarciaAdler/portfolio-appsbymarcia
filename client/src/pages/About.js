@@ -20,8 +20,6 @@ const styles = {
   },
   icon: {
     textAlign: "center",
-    // paddingLeft: "20px",
-    // paddingRight: "20px",
     height: "30px",
     borderRadius: ".2em",
     marginLeft: "20px",
@@ -55,19 +53,27 @@ function About() {
           also build new products and applications to help people have a better
           experience.
         </p>
+      </section>
+      <section>
+        <h6 style={styles.title}>
+          <strong>Technology experience:</strong>
+        </h6>
         <p style={styles.p}>
-          I have experience with the following technologies: HTML, CSS,
-          JavaScript, jQuery, MySQL, MongoDB, React, Express, Node JS,
-          Bootstrap, SQL, Sequelize,
+          HTML, CSS, JavaScript, jQuery, MySQL, MongoDB, React, Express, Node
+          JS, Bootstrap, SQL, Sequelize,
         </p>
+        <h6 style={styles.title}>
+          <strong>Software experience:</strong>
+        </h6>
         <p style={styles.p}>
-          I have experience with the following applications: Word, Excel,
-          PowerPoint, Access, MySQL Workbench, Asana, PeopleSoft, GitHub,
-          SharePoint, Miro, Lucid Chart
+          Word, Excel, PowerPoint, Access, MySQL Workbench, Asana, PeopleSoft,
+          GitHub, SharePoint, Miro, Lucid Chart
         </p>
       </section>
       <section>
-        <h5 style={styles.title}>Contact Me</h5>
+        <h5 style={styles.title}>
+          <strong>Contact Me</strong>
+        </h5>
         <p style={styles.p}>
           I'm open to many different opportunities, including opportunities to
           collaborate with others on projects. Please reach out to me through

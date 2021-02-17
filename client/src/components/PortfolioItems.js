@@ -35,9 +35,16 @@ const styles = {
     fontSize: "12px",
   },
   link: {
-    display: "inline-block",
-    marginRight: "15px",
-    fontSize: "13px",
+    // display: "inline-block",
+    // marginRight: "15px",
+    // fontSize: "13px",
+    // // backgroundColor: "#406e8e",
+    // borderRadius: ".2em",
+    // paddingLeft: "10px",
+    // paddingRight: "10px",
+    // paddingTop: "3px",
+    // paddingBottom: "3px",
+    // color: "#161925",
   },
 };
 function PortfolioItems(props) {
@@ -65,6 +72,7 @@ function PortfolioItems(props) {
             target="_blank"
             rel="noopener noreferrer"
             style={styles.link}
+            className="portfolio-link"
           >
             <strong> View App </strong>{" "}
           </a>
@@ -74,6 +82,7 @@ function PortfolioItems(props) {
             target="_blank"
             rel="noopener noreferrer"
             style={styles.link}
+            className="portfolio-link"
           >
             {" "}
             <strong> View Repo</strong>

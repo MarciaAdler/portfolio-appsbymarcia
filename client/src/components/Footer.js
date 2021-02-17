@@ -1,7 +1,7 @@
 import React from "react";
 const styles = {
   footer: {
-    backgroundColor: "#a9aca9",
+    backgroundColor: "#8ea8c3",
     height: "50px",
     clear: "both",
     width: "100%",
