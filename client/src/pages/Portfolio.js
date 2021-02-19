@@ -21,6 +21,7 @@ class Portfolio extends Component {
   render() {
     return (
       <div className="container mb-5" style={styles.container}>
+        <hr />
         <h1 style={styles.title}>Portfolio</h1>
         <p style={styles.title}>
           Below are samples of some of my projects. Please feel free to reach

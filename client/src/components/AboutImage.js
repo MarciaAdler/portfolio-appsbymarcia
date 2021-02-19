@@ -7,13 +7,14 @@ const styles = {
     height: "200px",
     marginRight: "0px",
     borderRadius: "50%",
-    marginBottom: "20px"
-  }
+    marginBottom: "20px",
+    margin: "50px 0px",
+  },
 };
 
 function AboutImage() {
   return (
-    <div className="container d-flex justify-content-center">
+    <div className="about-image text-center">
       <img style={styles.image} src={me} alt="Marcia" />
     </div>
   );

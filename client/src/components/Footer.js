@@ -6,12 +6,14 @@ const styles = {
     clear: "both",
     width: "100%",
     bottom: "0",
-    paddingTop: "25px",
+    paddingTop: "15px",
     // opacity: "55%",
+    textAlign: "center",
+    paddingBottom: "10px",
   },
 };
 function Footer() {
-  return <footer style={styles.footer}></footer>;
+  return <footer style={styles.footer}>&copy; Marcia Adler 2021</footer>;
 }
 
 export default Footer;

@@ -10,8 +10,7 @@ const styles = {
   },
   background: {
     opacity: "90%",
-    backgroundImage:
-      "url(https://www.pngfind.com/pngs/m/422-4223435_drone-slider-bottom-shadow-android-app-background-white.png",
+    backgroundImage: "url(../images/blue-snow.png)",
   },
   content: {
     color: "black",
@@ -21,18 +20,25 @@ const styles = {
     borderBottom: "0",
     padding: "0",
     textAlign: "center",
+    maxWidth: "100%",
+    overflow: "hidden",
+    maxHeight: "60px",
   },
   card: {
-    height: "290px",
+    height: "300px",
     width: "365px",
     backgroundColor: "#FFFBFC",
-    borderRadius: "20px",
+    borderRadius: "30px",
+    overflow: "hidden",
   },
   tech: {
     fontSize: "10px",
   },
   desc: {
     fontSize: "12px",
+  },
+  footer: {
+    backgroundColor: "#f1f1f6",
   },
   link: {
     // display: "inline-block",
@@ -50,8 +56,20 @@ const styles = {
 function PortfolioItems(props) {
   return (
     <div className="col-12 col-md-5 col-lg-4 d-flex justify-content-top align-items-center">
-      <div className="card border-dark mb-3" style={styles.card}>
-        <div className="card-header bg-transparent" style={styles.cardheader}>
+      <div className="card bg-transparent border-dark mb-3" style={styles.card}>
+        <div
+          className="card-header bg-transparent py-0 px-0"
+          style={
+            (styles.cardheader,
+            {
+              backgroundImage: `url(${props.titleimage})`,
+              backgroundSize: "1000%",
+              borderTopRightRadius: "20px",
+              borderTopLeftRadius: "20px",
+              textAlign: "center",
+            })
+          }
+        >
           <img style={styles.images} alt={props.name} src={props.titleimage} />
         </div>
 
@@ -66,7 +84,10 @@ function PortfolioItems(props) {
             </p>
           </div>
         </div>
-        <div className="card-footer d-flex justify-content-center">
+        <div
+          className="card-footer d-flex justify-content-center"
+          style={styles.footer}
+        >
           <a
             href={props.link}
             target="_blank"

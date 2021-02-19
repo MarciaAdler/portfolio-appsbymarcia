@@ -16,8 +16,18 @@
   background-color: #8ea8c3;
 }
 
-.container {
-  margin-top: 190px;
+.header-icons {
+  display: inline;
+}
+
+@media only screen and (max-width: 767px) {
+  .header-icons {
+    display: block;
+  }
+  .about-image {
+    justify-content: center;
+    display: flex;
+  }
 }
 
 .card {
@@ -28,15 +38,15 @@
   display: inline-block;
   margin-right: 15px;
   font-size: 13px;
-
   border-radius: 0.2em;
   padding-left: 10px;
   padding-right: 10px;
   padding-top: 3px;
   padding-bottom: 3px;
-  color: #161925;
+  color: #406e8e;
+  font-weight: bold;
 }
 .portfolio-link:hover {
-  color: #406e8e;
   text-decoration: none;
+  color: #161925;
 }
