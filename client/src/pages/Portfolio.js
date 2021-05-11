@@ -7,6 +7,7 @@ const styles = {
     marginBottom: "50px",
     paddingBottom: "30px",
     color: "white",
+    marginTop: "35px",
   },
   title: {
     textAlign: "center",
