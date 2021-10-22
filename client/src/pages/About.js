@@ -59,7 +59,7 @@ function About() {
               and action items to ensure timely completion of tasks and open
               items. I like to solve problems and find better ways to do things
               through the use of data (qualitative and quantitative), and enjoy
-              looking for opportunities to improve processes and implementing
+              looking for opportunities to improve processes and implement
               solutions.
               <br />
               <br /> My experience in consulting and skills from my Full Stack
