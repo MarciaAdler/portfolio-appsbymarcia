@@ -45,8 +45,8 @@ function About() {
           </div>
           <section className="col-12 col-md-8">
             <p style={styles.p1}>
-              I am a Product Manager / Software Engineer / Strategy Consultant
-              professional with a Bachelor’s in Business and Technology, an MBA
+              I am a Product and Project Management professional based in
+              Brooklyn, NY, with a Bachelor’s in Business and Technology, an MBA
               with focuses in finance and human capital, a background in
               consulting and a certificate for Full Stack Web Development from
               Columbia University. <br />
@@ -55,10 +55,12 @@ function About() {
               achieve their business goals. I have completed collecting,
               analyzing, and translating research and data into detailed product
               requirements, by leading customer interviews and user workshops. I
-              managed backlog refinement and action items to ensure timely
-              completion of open items. I like to solve problems and find better
-              ways to do things through the use of data (qualitative and
-              quantitative).
+              have managed agile sprints, including managing backlog refinement
+              and action items to ensure timely completion of tasks and open
+              items. I like to solve problems and find better ways to do things
+              through the use of data (qualitative and quantitative), and enjoy
+              looking for opportunities to improve processes and implementing
+              solutions.
               <br />
               <br /> My experience in consulting and skills from my Full Stack
               Web Development Certificate set me up well to work with teams to

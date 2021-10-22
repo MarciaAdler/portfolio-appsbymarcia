@@ -13,7 +13,7 @@ const styles = {
   },
 };
 function Footer() {
-  return <footer style={styles.footer}>&copy; Marcia Adler 2021</footer>;
+  return <footer style={styles.footer}>&copy; Marcia Adler 2020</footer>;
 }
 
 export default Footer;
