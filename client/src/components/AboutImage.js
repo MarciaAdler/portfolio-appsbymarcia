@@ -1,5 +1,5 @@
 import React from "react";
-import me from "../images/me3.jpeg";
+import me from "../images/me2.jpeg";
 
 const styles = {
   container: {},
@@ -8,7 +8,7 @@ const styles = {
     marginRight: "0px",
     borderRadius: "50%",
     marginBottom: "20px",
-    margin: "50px 0px",
+    margin: "20px 0px",
   },
 };
 
