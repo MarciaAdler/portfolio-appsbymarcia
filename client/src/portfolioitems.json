@@ -16,7 +16,6 @@
     "shortdescription": "Complete MERN and CRUD property management app that allows property managers, employees, and tenants to better communicate.",
     "technologies": "React, Bootstrap, Sass, JavaScript, Express, NodeJS, MySQL (Sequelize)"
   },
- 
   
   {
     "id": 10,
@@ -39,7 +38,17 @@
     "description": "hungry much? is an app that allows users to search for recipes by main ingredient and get a list of recipes that include the main ingredient along with the nutritional information and a link to the recipe.  Users can save recipes for future reference.  Users can also search for food items and get nutritional information per serving for food items",
     "technologies": "HTML, CSS, JavaScript, JQuery, API"
   },
+  {
+    "id": 7,
+    "name": "SingAlong Karaoke",
+    "image": "./images/SingAlong-homepage.png",
+    "titleimage": "../images/SingAlong-title.png",
   
+    "github": "https://github.com/MarciaAdler/KaraokeApp",
+    "shortdescription": "Search and save your favorite karaoke songs.",
+    "description": "SingAlong Karaoke allows users to search for popular karaoke songs.Users can also sign-up and create an account to be able to save favorites for future reference. Users can view information on songs such as genres, release year, lyrics, Youtube lyric videos,if it is a duet and other songs by the same artist.",
+    "technologies": "React, Bootstrap, Sass, JavaScript, APIs, Express, NodeJS, MySQL (Sequelize)"
+  },
   {
     "id": 3,
     "name": "Password Generator App",
