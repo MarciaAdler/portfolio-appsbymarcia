@@ -45,11 +45,11 @@ function About() {
           </div>
           <section className="col-12 col-md-8">
             <p style={styles.p1}>
-              I am a Product and Project Management professional based in
-              Brooklyn, NY, with a Bachelor’s in Business and Technology, an MBA
-              with focuses in finance and human capital, a background in
-              consulting and a certificate for Full Stack Web Development from
-              Columbia University. <br />
+              I am a Product Management professional based in Brooklyn, NY, with
+              a Bachelor’s in Business and Technology, an MBA with focuses in
+              finance and human capital, a background in consulting and a
+              certificate for Full Stack Web Development from Columbia
+              University. <br />
               <br /> I have experience working successfully in teams on large
               agile projects to build products and applications to help clients
               achieve their business goals. I have completed collecting,
@@ -61,6 +61,15 @@ function About() {
               through the use of data (qualitative and quantitative), and enjoy
               looking for opportunities to improve processes and implement
               solutions.
+              <br />
+              <br /> I am currently working as a Technical Product Manager at a
+              SaaS startup that has an enterprise product that allows companies
+              and organizations to implement social impact with their
+              communities. I spend a lot of time writing feature stories, and
+              working with the engineering team to implement new features and
+              spin up new sites for clients. I manage the roadmap for the
+              companies core product, and work closely with the operations queue
+              to manage client requests.
               <br />
               <br /> My experience in consulting and skills from my Full Stack
               Web Development Certificate set me up well to work with teams to
