@@ -9,6 +9,7 @@ const styles = {
   },
   title: {
     textAlign: "center",
+    color: "white",
   },
   p1: {
     textAlign: "left",
@@ -18,10 +19,7 @@ const styles = {
     textAlign: "center",
     color: "white",
   },
-  title: {
-    textAlign: "center",
-    color: "white",
-  },
+
   icon: {
     textAlign: "center",
     height: "30px",
