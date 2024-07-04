@@ -45,31 +45,21 @@ function About() {
           </div>
           <section className="col-12 col-md-8">
             <p style={styles.p1}>
-              I am a Product Management professional based in Brooklyn, NY, with
-              a Bachelor’s in Business and Technology, an MBA with focuses in
-              finance and human capital, a background in consulting and a
-              certificate for Full Stack Web Development from Columbia
-              University. <br />
-              <br /> I have experience working successfully in teams on large
-              agile projects to build products and applications to help clients
-              achieve their business goals. I have completed collecting,
-              analyzing, and translating research and data into detailed product
-              requirements, by leading customer interviews and user workshops. I
-              have managed agile sprints, including managing backlog refinement
-              and action items to ensure timely completion of tasks and open
-              items. I like to solve problems and find better ways to do things
-              through the use of data (qualitative and quantitative), and enjoy
-              looking for opportunities to improve processes and implement
-              solutions.
-              <br />
-              <br /> I am currently working as a Technical Product Manager at a
-              SaaS startup that has an enterprise product that allows companies
-              and organizations to implement social impact with their
-              communities. I spend a lot of time writing feature stories, and
-              working with the engineering team to implement new features and
-              spin up new sites for clients. I manage the roadmap for the
-              companies core product, and work closely with the operations queue
-              to manage client requests.
+              As a Senior Product Manager and Strategic Product Leader with over
+              8 years of experience, I specialize in overseeing the entire
+              product lifecycle, from initial concept to successful market
+              launch. My expertise includes devising comprehensive roadmap
+              strategies, implementing agile methodologies, and driving both
+              revenue growth and user adoption across diverse industries. I
+              excel in developing detailed product requirements, managing
+              cross-functional teams, and addressing complex technical user pain
+              points. <br />
+              <br /> My career is marked by successful product launches and
+              growth initiatives, consistently translating user insights into
+              actionable plans that enhance user experience, optimize product
+              performance, and achieve key business objectives. I am passionate
+              about leveraging data-driven decision-making to inform strategy,
+              improve processes, and lead product innovation.
               <br />
               <br /> My experience in consulting and skills from my Full Stack
               Web Development Certificate set me up well to work with teams to
@@ -86,9 +76,9 @@ function About() {
               <strong>Technology experience</strong>&nbsp;
             </h6>
             <p style={styles.p}>
-              HTML &bull; CSS &bull; JavaScript &bull; jQuery &bull; MySQL
-              &bull; MongoDB &bull; React &bull; Express &bull; Node JS &bull;
-              Bootstrap &bull; SQL &bull; Sequelize
+              HTML &bull; CSS &bull; JavaScript &bull; MySQL &bull; MongoDB
+              &bull; React &bull; Express &bull; Node JS &bull; Bootstrap &bull;
+              SQL &bull; Sequelize &bull; Tailwind CSS
             </p>
           </div>
 
@@ -99,7 +89,8 @@ function About() {
             <p style={styles.p}>
               Word &bull; Excel &bull; PowerPoint &bull; Access &bull; MySQL
               Workbench &bull; Asana &bull; PeopleSoft &bull; GitHub &bull;
-              SharePoint &bull; Miro &bull; Lucid Chart
+              SharePoint &bull; Miro &bull; Lucid Chart &bull; Mode &bull; Figma
+              &bull; Google Apps &bull; Slack
             </p>
           </div>
         </div>
