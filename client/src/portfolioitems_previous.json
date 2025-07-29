@@ -4,7 +4,7 @@
   "titleimage": "../images/socialcommunity_icon2.png",
   "link": "https://social.appsbymarcia.com",
   "github": "https://github.com/MarciaAdler/social",
-  "shortdescription": "Social Community is a place where people in communities can come together and share information with their community, on their own platform, with their own rules. Created with the idea to have a space that isn't controlled by social media but a place product that focuses on the user experience.",
+  "shortdescription": "Social Community is a place where people in communities can come together and share information with their community, on their own platform, with their own rules.",
   "technologies": "React, Bootstrap, Sass, JavaScript, Express, NodeJS, MySQL(Sequelize), API, Socket.io"
 },
   {
@@ -13,7 +13,7 @@
     "titleimage": "../images/communityessetitleicon.png",
     "link": "https://community.appsbymarcia.com",
     "github": "https://github.com/MarciaAdler/CommunityEsse",
-    "shortdescription": "Property management app that allows building management to communicate with residents and vice versa and also for residents to communicate with each other to create a more community feel in medium size buildings",
+    "shortdescription": "Complete MERN and CRUD property management app that allows property managers, employees, and tenants to better communicate.",
     "technologies": "React, Bootstrap, Sass, JavaScript, Express, NodeJS, MySQL (Sequelize)"
   },
   
@@ -23,7 +23,7 @@
     "titleimage": "../images/LaylasGameimage.png",
     "link": "https://game.appsbymarcia.com",
     "github": "https://github.com/MarciaAdler/laylagame",
-    "shortdescription": "Simple kid's games, for 5-6 year olds, that help them learn and become familiar with math, numbers, words, and letters. Built to help support my niece who was in Kindergarten, to have games she enjoyed whlie also learning.",
+    "shortdescription": "Kid's games that help them learn and become familiar with math, numbers, words, and letters",
     "technologies": "React, Bootstrap, JavaScript, Express, NodeJS"
   },
   
@@ -34,7 +34,7 @@
     "titleimage": "../images/hungrymuchtitle.png",
     "link": "https://marciaadler.github.io/ProjectOne/",
     "github": "https://github.com/MarciaAdler/ProjectOne",
-    "shortdescription": "An app for users to search for foods and recipes and retrieve nutritional information. Provides a way for those who are focusing on nurtrition and paying attention to macros to find recipes with this information available to make easy decisions on what to make.",
+    "shortdescription": "Allows users to search for foods and recipes and retrieve nutritional information.",
     "description": "hungry much? is an app that allows users to search for recipes by main ingredient and get a list of recipes that include the main ingredient along with the nutritional information and a link to the recipe.  Users can save recipes for future reference.  Users can also search for food items and get nutritional information per serving for food items",
     "technologies": "HTML, CSS, JavaScript, JQuery, API"
   },
@@ -45,7 +45,7 @@
     "titleimage": "../images/SingAlong-title.png",
   
     "github": "https://github.com/MarciaAdler/KaraokeApp",
-    "shortdescription": "A fun app that makes it easy to search and save your favorite karaoke songs. Easy way to prep for a karaoke night out (or night in) and have fun with your favorite songs!",
+    "shortdescription": "Search and save your favorite karaoke songs.",
     "description": "SingAlong Karaoke allows users to search for popular karaoke songs.Users can also sign-up and create an account to be able to save favorites for future reference. Users can view information on songs such as genres, release year, lyrics, Youtube lyric videos,if it is a duet and other songs by the same artist.",
     "technologies": "React, Bootstrap, Sass, JavaScript, APIs, Express, NodeJS, MySQL (Sequelize)"
   },
@@ -56,7 +56,7 @@
     "titleimage": "../images/passwordgeneratortitle.png",
     "link": "https://marciaadler.github.io/PasswordGenerator/",
     "github": "https://github.com/MarciaAdler/PasswordGenerator",
-    "shortdescription": "An easy way to generates unique passwords based on requirements input by users so you never have to use the same password or spend time trying to create unique, challenging passords for every site/app.",
+    "shortdescription": "Generates unique passwords based on requirements input by users.",
     "description": "The password generator allows users to generate random passwords based on criteria they input through prompts.  Users can input how many characters they want the password to be, and then select if they want special characters, upper or lowercase letters, and numbers to be included.  Once generated, users can copy the password to their computer's clipboard and paste it wherever they'd like.",
     "technologies": "HTML, CSS, JavaScript"
   },
@@ -67,7 +67,7 @@
     "titleimage": "../images/dayplannerapptitle.png",
     "link": "https://marciaadler.github.io/DayPlanner/",
     "github": "https://github.com/MarciaAdler/DayPlanner",
-    "shortdescription": "An easy way for users to input daily activities into a daily planner, save them and then view and update to always keep track of what they have planned.",
+    "shortdescription": "Allows users to input daily activities into a daily planner, save them and then view and update.",
     "description": "The Day Planner allows users to view their daily schedule by hour.  The app color codes the inputs by hours, grey being in the past, red being current, and green in the future.  Users can input their activities into the color coded section and save their inputs to local storage for future reference.",
     "technologies": "HTML, CSS, JavaScript, JQuery"
   }

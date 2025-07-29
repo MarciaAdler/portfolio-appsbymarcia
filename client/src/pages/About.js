@@ -43,26 +43,18 @@ function About() {
           </div>
           <section className="col-12 col-md-8">
             <p style={styles.p1}>
-              As a Senior Product Manager and Strategic Product Leader with over
-              8 years of experience, I specialize in overseeing the entire
-              product lifecycle, from initial concept to successful market
-              launch. My expertise includes devising comprehensive roadmap
-              strategies, implementing agile methodologies, and driving both
-              revenue growth and user adoption across diverse industries. I
-              excel in developing detailed product requirements, managing
-              cross-functional teams, and addressing complex technical user pain
-              points. <br />
-              <br /> My career is marked by successful product launches and
-              growth initiatives, consistently translating user insights into
-              actionable plans that enhance user experience, optimize product
-              performance, and achieve key business objectives. I am passionate
-              about leveraging data-driven decision-making to inform strategy,
-              improve processes, and lead product innovation.
-              <br />
-              <br /> My experience in consulting and skills from my Full Stack
-              Web Development Certificate set me up well to work with teams to
-              not only plan and develop but also build new products and
-              applications to help people have a better experience.
+              As a Strategic Product Leader with 8+ years experience, my most successful products and features stem from understanding users and what they’re looking to achieve. 
+              My goal is always to build products that make an impact and serve a need. Further, working collaboratively with Engineers, Designers, and Go-to-Market teams has been instrumental to that goal.
+
+                <ul>Key Accomplishments:
+                  <li> Delivered beta MVP of AI/ML-powered HR tech product in under 3 months using Agile methodology.</li>
+                  <li>Owned the end-user experience by building interactive features for video submissions, reactions, and comments, increasing user engagement by ~30% between users and admins.</li>
+                  <li>Led cross-functional teams through development and launch of 4+ SaaS products and numerous features from 0-1 and 1-n.</li>
+                  <li>Improved development efficiency ~20% through backlog management, detailed user stories, QA, and stakeholder updates</li>
+                  <li>Increased client retention ~10% by translating client feedback and pain-points into prioritized product features.</li>
+                </ul>
+              As a forever student of product management, I love hearing the latest on product management trends and & insights. To share tips, best practices, or discuss pain point solving product build outs contact me!
+             
             </p>
           </section>
         </div>
@@ -85,10 +77,10 @@ function About() {
               <strong>Software experience</strong>&nbsp;
             </h6>
             <p style={styles.p}>
-              Word &bull; Excel &bull; PowerPoint &bull; Access &bull; MySQL
-              Workbench &bull; Asana &bull; PeopleSoft &bull; GitHub &bull;
-              SharePoint &bull; Miro &bull; Lucid Chart &bull; Mode &bull; Figma
-              &bull; Google Apps &bull; Slack
+              Asana &bull; GitHub &bull;Miro &bull; Lucid Chart &bull; Mode 
+              &bull; Figma &bull; Google Apps &bull; Slack &bull; ChatGPT 
+              &bull; Google Tag Manager (GTM) &bull; Lovable &bull; MySQL Workbench &bull; Word &bull; Excel &bull; PowerPoint 
+              &bull; Access  &bull; PeopleSoft
             </p>
           </div>
         </div>
@@ -99,8 +91,8 @@ function About() {
             </h5>
             <p style={styles.p}>
               I'm open to many different opportunities, including opportunities
-              to collaborate with others on projects. Please reach out to me
-              through any of the links below.
+              to collaborate with others on projects or just connecting to discuss the Tech and Product space. 
+              Please reach out to me through any of the links below.
             </p>
             <div style={styles.links}>
               <a
