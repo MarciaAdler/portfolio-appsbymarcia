@@ -44,14 +44,16 @@ function About() {
           <section className="col-12 col-md-8">
             <p style={styles.p1}>
               As a Strategic Product Leader with 8+ years experience, my most successful products and features stem from understanding users and what they’re looking to achieve. 
-              My goal is always to build products that make an impact and serve a need. Further, working collaboratively with Engineers, Designers, and Go-to-Market teams has been instrumental to that goal.
-
-                <ul>Key Accomplishments:
-                  <li> Delivered beta MVP of AI/ML-powered HR tech product in under 3 months using Agile methodology.</li>
-                  <li>Owned the end-user experience by building interactive features for video submissions, reactions, and comments, increasing user engagement by ~30% between users and admins.</li>
-                  <li>Led cross-functional teams through development and launch of 4+ SaaS products and numerous features from 0-1 and 1-n.</li>
-                  <li>Improved development efficiency ~20% through backlog management, detailed user stories, QA, and stakeholder updates</li>
-                  <li>Increased client retention ~10% by translating client feedback and pain-points into prioritized product features.</li>
+              My goal is always to build products that make an impact and serve a need. Working collaboratively with Engineers, Designers, and Go-to-Market teams has been instrumental to that goal.
+              <br></br>
+              <br></br>
+                <h4>Key Accomplishments:</h4>
+                  <ul>
+                  <li> Delivered beta MVP of AI/ML-powered HR tech product in under <b>3 months</b> using Agile methodology.</li>
+                  <li>Owned the end-user experience by building interactive features for video submissions, reactions, and comments, <b>increasing user engagement by ~30%</b> between users and admins.</li>
+                  <li>Led cross-functional teams through development and launch of <b>4+ SaaS products and numerous features</b> from 0-1 and 1-n.</li>
+                  <li><b>Improved development efficiency ~20%</b> through backlog management, detailed user stories, QA, and stakeholder updates</li>
+                  <li><b>Increased client retention ~10%</b> by translating client feedback and pain-points into prioritized product features.</li>
                 </ul>
               As a forever student of product management, I love hearing the latest on product management trends and & insights. To share tips, best practices, or discuss pain point solving product build outs contact me!
              
@@ -90,8 +92,7 @@ function About() {
               <strong>Contact Me</strong>
             </h5>
             <p style={styles.p}>
-              I'm open to many different opportunities, including opportunities
-              to collaborate with others on projects or just connecting to discuss the Tech and Product space. 
+              I'm open to full-time opportunities, projects and collaborations as well as open discussions in the Tech and Product space. 
               Please reach out to me through any of the links below.
             </p>
             <div style={styles.links}>

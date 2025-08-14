@@ -14,7 +14,7 @@ const styles = {
   },
   content: {
     color: "black",
-    height: "170px",
+    height: "200px",
   },
   cardheader: {
     borderBottom: "0",
@@ -25,12 +25,13 @@ const styles = {
     maxHeight: "60px",
   },
   card: {
-    height: "300px",
+    height: "320px",
     width: "365px",
     backgroundColor: "#FFFBFC",
     borderRadius: "30px",
     overflow: "hidden",
-  },
+    
+  },  
   tech: {
     fontSize: "10px",
   },
@@ -53,9 +54,10 @@ const styles = {
     // color: "#161925",
   },
 };
+
 function PortfolioItems(props) {
   return (
-    <div className="col-12 col-md-5 col-lg-4 d-flex justify-content-top align-items-center">
+    <div className="col-12 col-md-6 col-lg-4 d-flex justify-content-top align-items-center">
       <div className="card bg-transparent border-dark mb-3" style={styles.card}>
         <div
           className="card-header bg-transparent py-0 px-0"

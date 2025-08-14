@@ -25,7 +25,7 @@ class Portfolio extends Component {
         <hr />
         <h1 style={styles.title}>Portfolio</h1>
         <p style={styles.title}>
-          Below are samples of some of my projects I have built myself, from idea to MVP. While most of my professional work has been in the B2B and B2B2C SaaS space, these products are more focused on my personal interests or areas where I saw an opportunity and had an idea to solve it. 
+          The following are projects I built, from idea to MVP. While most of my professional work has been in the B2B and B2B2C SaaS space, these products are more focused on my personal interests or areas where I saw an opportunity and had an idea to solve it. 
           Please feel free to reach out with any questions or should you see something that peeks your
           interest.
         </p>
