@@ -43,8 +43,11 @@ function About() {
           </div>
           <section className="col-12 col-md-8">
             <p style={styles.p1}>
-              As a Strategic Product Leader with 8+ years experience, my most successful products and features stem from understanding users and what they’re looking to achieve. 
+              As a Strategic Product Leader with 10+ years experience, my most successful products and features stem from understanding users and what they’re looking to achieve. 
               My goal is always to build products that make an impact and serve a need. Working collaboratively with Engineers, Designers, and Go-to-Market teams has been instrumental to that goal.
+              <br></br>
+              <br></br>
+              <b>What makes me different</b>: I can sit across from a user and genuinely understand their pain, then turn around and have a detailed architecture conversation with engineers. I don't translate between teams — I operate fluently in both worlds.
               <br></br>
               <br></br>
                 <h4>Key Accomplishments:</h4>
@@ -54,7 +57,11 @@ function About() {
                   <li>Led cross-functional teams through development and launch of <b>4+ SaaS products and numerous features</b> from 0-1 and 1-n.</li>
                   <li><b>Improved development efficiency ~20%</b> through backlog management, detailed user stories, QA, and stakeholder updates</li>
                   <li><b>Increased client retention ~10%</b> by translating client feedback and pain-points into prioritized product features.</li>
+                  <li>Built a full-stack MVP (React, Node.js, Express) from scratch as a solo founder</li>
                 </ul>
+                I thrive in fast-moving environments where I have real ownership, can push back constructively, and work with teammates who believe we do better together than apart.
+                <br></br>
+                <br></br>
               As a forever student of product management, I love hearing the latest on product management trends and & insights. To share tips, best practices, or discuss pain point solving product build outs contact me!
              
             </p>
@@ -80,7 +87,7 @@ function About() {
             </h6>
             <p style={styles.p}>
               Asana &bull; GitHub &bull;Miro &bull; Lucid Chart &bull; Mode 
-              &bull; Figma &bull; Google Apps &bull; Slack &bull; ChatGPT 
+              &bull; Figma &bull; Google Apps &bull; Slack &bull; Claude &bull; ChatGPT 
               &bull; Google Tag Manager (GTM) &bull; Lovable &bull; MySQL Workbench &bull; Word &bull; Excel &bull; PowerPoint 
               &bull; Access  &bull; PeopleSoft
             </p>
