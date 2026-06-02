@@ -23,12 +23,13 @@ function AboutImage() {
       <div className="about-image text-center">
         <img style={styles.image} src={me} alt="Marcia" />
       </div>
+      { /*
       <div className="title text-center" style={styles.title}>
      
-        Strategic Product Leader
+        
       
     
-      </div>
+      </div> */}
     </div>
   );
 }
