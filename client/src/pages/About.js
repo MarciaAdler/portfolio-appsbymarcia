@@ -42,29 +42,33 @@ function About() {
             <AboutImage />
           </div>
           <section className="col-12 col-md-8">
+            <h3 style={styles.title}>Strategic Product Leader | Senior PM | Builder</h3>
+            <hr />
             <p style={styles.p1}>
-              As a Strategic Product Leader with 10+ years experience, my most successful products and features stem from understanding users and what they’re looking to achieve. 
-              My goal is always to build products that make an impact and serve a need. Working collaboratively with Engineers, Designers, and Go-to-Market teams has been instrumental to that goal.
+              I'm a Technical Product Manager with 10+ years of experience across Big 4 consulting, global agency operations, entrepreneurship, and growth-stage SaaS — and I sit at the intersection of technical depth and customer empathy in a way most PMs don't.
               <br></br>
               <br></br>
-              <b>What makes me different</b>: I can sit across from a user and genuinely understand their pain, then turn around and have a detailed architecture conversation with engineers. I don't translate between teams — I operate fluently in both worlds.
+              I can walk out of a user interview, translate pain points into a prioritized roadmap, and then sit down with an engineering team to hash out architecture decisions — without needing anyone to translate for me. That's always been my edge.
               <br></br>
               <br></br>
-                <h4>Key Accomplishments:</h4>
-                  <ul>
-                  <li> Delivered beta MVP of AI/ML-powered HR tech product in under <b>3 months</b> using Agile methodology.</li>
-                  <li>Owned the end-user experience by building interactive features for video submissions, reactions, and comments, <b>increasing user engagement by ~30%</b> between users and admins.</li>
-                  <li>Led cross-functional teams through development and launch of <b>4+ SaaS products and numerous features</b> from 0-1 and 1-n.</li>
-                  <li><b>Improved development efficiency ~20%</b> through backlog management, detailed user stories, QA, and stakeholder updates</li>
-                  <li><b>Increased client retention ~10%</b> by translating client feedback and pain-points into prioritized product features.</li>
-                  <li>Built a full-stack MVP (React, Node.js, Express) from scratch as a solo founder</li>
-                </ul>
-                I thrive in fast-moving environments where I have real ownership, can push back constructively, and work with teammates who believe we do better together than apart.
-                <br></br>
-                <br></br>
-              As a forever student of product management, I love hearing the latest on product management trends and & insights. To share tips, best practices, or discuss pain point solving product build outs contact me!
-             
-            </p>
+              My career has spanned EY (where I led HR platform products across 5+ M&A engagements), Omnicom (where I directed a global shared services transformation), a stint as a solo PM/founder (where I built a full-stack property management app from zero), and most recently Countable — a B2B/B2B2C SaaS startup where I owned 3 core products, shipped an AI/ML-powered MVP in under 3 months, and at times served as the de facto VP of Product.
+              <br></br>
+              <br></br>
+              I thrive in fast-moving environments where I have real ownership, can push back constructively, and work with teammates who believe we do better together than alone.
+              
+            </p>  
+              <h4 style={styles.p1}>Key Accomplishments:</h4>
+                <ul style={styles.p1}>
+                  <li> Shipped AI/ML-powered beta MVP in under <b>3 months</b> — defined the workflow, ensured output accuracy, and integrated two third-party APIs</li>
+                  <li>Drove <b>~15% feature adoption increase</b> by owning roadmap for 3 core SaaS products aligned to top user pain points</li>
+                  <li>Increased <b>client retention ~10%</b> by translating client feedback into prioritized product decisions</li>
+                  <li>Created and executed go-to-market strategy that increased <b>MRR ~20%</b> through upsells and feature add-ons</li>
+                  <li>Redesigned user onboarding flow, increasing <b>completion rate ~20%</b> through streamlined multi-step UX</li>
+                  <li>Built a full-stack MVP (React, Node.js, Express) from scratch as a solo founder, validated with a 100+ property firm</li>
+                  <li>Led enterprise SSO (OpenID Connect) implementation and designed role-based access controls for enterprise clients</li>
+               </ul>
+                
+            
           </section>
         </div>
       </div>
@@ -72,7 +76,7 @@ function About() {
         <div className="row">
           <div className="col-12 col-md-6">
             <h6 style={styles.title}>
-              <strong>Technology experience</strong>&nbsp;
+              <strong>Technology</strong>&nbsp;
             </h6>
             <p style={styles.p}>
               HTML &bull; CSS &bull; JavaScript &bull; MySQL &bull; MongoDB
@@ -83,13 +87,12 @@ function About() {
 
           <div className="col-12 col-md-6">
             <h6 style={styles.title}>
-              <strong>Software experience</strong>&nbsp;
+              <strong>Tools</strong>&nbsp;
             </h6>
             <p style={styles.p}>
-              Asana &bull; GitHub &bull;Miro &bull; Lucid Chart &bull; Mode 
-              &bull; Figma &bull; Google Apps &bull; Slack &bull; Claude &bull; ChatGPT 
-              &bull; Google Tag Manager (GTM) &bull; Lovable &bull; MySQL Workbench &bull; Word &bull; Excel &bull; PowerPoint 
-              &bull; Access  &bull; PeopleSoft
+              Figma &bull; Miro &bull; Asana &bull; GitHub &bull; Mode 
+              &bull; Lucidchart &bull; Google Tag Manager &bull; Lovable &bull; Claude &bull; ChatGPT 
+              &bull; Slack &bull; Google Workspace
             </p>
           </div>
         </div>
