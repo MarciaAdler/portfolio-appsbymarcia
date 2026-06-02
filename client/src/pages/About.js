@@ -42,7 +42,7 @@ function About() {
             <AboutImage />
           </div>
           <section className="col-12 col-md-8">
-            <h3 style={styles.title}>Strategic Product Leader | Senior PM | Builder</h3>
+            <h3 style={styles.title}>Technical Product Manager | Builder | 10+ Years Across SaaS, Consulting & Startups</h3>
             <hr />
             <p style={styles.p1}>
               I'm a Technical Product Manager with 10+ years of experience across Big 4 consulting, global agency operations, entrepreneurship, and growth-stage SaaS — and I sit at the intersection of technical depth and customer empathy in a way most PMs don't.
