@@ -1,0 +1,12 @@
+[ {
+  "id": 1,
+  "name": "Product Jobs",
+  "titleimage": "../images/productjobs_image.png",
+  "link": "https://productjobs.vercel.app/",
+  "github": "https://github.com/MarciaAdler/productjobboard",
+  "shortdescription": "Job board with a focus on roles in Product in the US and remote, that I built using Claude Code and deployed using Vercel and Railway.",
+  "technologies": "Claude code, React, node.js, Vercel, Railway",
+  "skills": "Ralph Loop, front-end design skill"
+}
+  
+]

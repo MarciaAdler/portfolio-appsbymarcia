@@ -21,7 +21,7 @@
     "id": 10,
     "name": "Layla's Game",
     "titleimage": "../images/LaylasGameimage.png",
-    "link": "https://game.appsbymarcia.com",
+    "link": "https://laylagame.vercel.app/",
     "github": "https://github.com/MarciaAdler/laylagame",
     "shortdescription": "Simple kid's games, for 5-6 year olds, that help them learn and become familiar with math, numbers, words, and letters. Built to help support my niece who was in Kindergarten, to have games she enjoyed whlie also learning.",
     "technologies": "React, Bootstrap, JavaScript, Express, NodeJS"
