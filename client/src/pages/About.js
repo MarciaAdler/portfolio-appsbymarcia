@@ -42,10 +42,10 @@ function About() {
             <AboutImage />
           </div>
           <section className="col-12 col-md-8">
-            <h3 style={styles.title}>Technical Product Manager | Builder | 10+ Years Across SaaS, Consulting & Startups</h3>
+            <h3 style={styles.title}>Senior Product Manager | Builder | 10+ Years Across SaaS, Consulting & Startups</h3>
             <hr />
             <p style={styles.p1}>
-              I'm a Technical Product Manager with 10+ years of experience across Big 4 consulting, global agency operations, entrepreneurship, and growth-stage SaaS — and I sit at the intersection of technical depth and customer empathy in a way most PMs don't.
+              I'm a Senior Product Manager with 10+ years of experience across Big 4 consulting, global agency operations, entrepreneurship, and growth-stage SaaS — and I sit at the intersection of technical depth and customer empathy in a way most PMs don't.
               <br></br>
               <br></br>
               I can walk out of a user interview, translate pain points into a prioritized roadmap, and then sit down with an engineering team to hash out architecture decisions — without needing anyone to translate for me. That's always been my edge.
