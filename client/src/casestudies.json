@@ -1,0 +1,62 @@
+[ {
+    "id": 1,
+    "tag": "HR Tech · AI/ML",
+    "tagColor": { "bg": "#E6F1FB", "color": "#185FA5" },
+    "title": "AI-Powered Candidate Screening & ATS",
+    "company": "Countable · 2021–2024",
+    "problem":
+      "Hiring managers were spending hours manually reviewing and verifying candidates. There was no intelligent layer to surface the verified candidates faster or reduce the burden on recruiters and hiring managers.",
+    "bullets": [
+      "Defined the end-to-end product vision and workflow for an AI/ML-powered candidate application, screening and verification system",
+      "Scoped and integrated two third-party APIs to automate candidate data enrichment and verification",
+      "Ensured model output accuracy through rigorous testing and quality benchmarks before launch",
+      "Shipped a fully functional ATS with verification and screening built in — from zero to beta MVP",
+      "Operated with a small team, owning strategy, requirements, and QA end-to-end"
+    ],
+      "statsnum1": "< 3 months",
+      "statslabel1": "Zero to shipped beta MVP",
+      "statsnum2": "2 APIs", 
+      "statslabel2": "Integrated for automated data verification" 
+  },
+  {
+    "id": 2,
+    "tag": "0-to-1 · Full Stack",
+    "tagColor": { "bg": "#E1F5EE", "color": "#0F6E56" },
+    "title": "Property Management App — Solo PM/Founder Build",
+    "company": "Self-Employed · 2018–2021",
+    "problem":
+      "Property managers and tenants in smaller buildings (<50 units) were frustrated by the lack of ways to easily communicate with the community and each other about the happenings of the building. There was a clear gap for a focused, modern solution built around their actual workflows and providng a tool for these smaller buildings.",
+    "bullets": [
+      "Conducted customer interviews and market analysis to identify unmet needs and define the product scope",
+      "Designed the full product architecture and roadmap from scratch — no team, no prior codebase",
+      "Built the entire MVP full-stack using React, Node.js, and Express",
+      "Validated the product with a real firm managing 100+ properties and potential users",
+      "Iterated on the product based on user feedback"
+    ],
+    "statsnum1": "< 4 months", 
+    "statslabel1": "Shipped the MVP and validated with a property management firm" ,
+      "statsnum2": "Solo", 
+      "statslabel2": "PM + full-stack engineer, end-to-end" 
+  },
+  {
+    "id": 3,
+    "tag": "Enterprise · M&A",
+    "tagColor": { "bg": "#EEEDFE", "color": "#534AB7" },
+    "title": "HR Platform Rollout Across M&A Engagements",
+    "company": "EY (Ernst & Young) · 2013–2017",
+    "problem":
+      "Enterprise clients going through mergers and acquisitions needed a unified HR platform to manage people data across the combined future state organization — each with different systems, structures, and compliance requirements - in order to plan their future state org.",
+    "bullets": [
+      "Led end-to-end product lifecycle for an HR platform — from discovery and requirements through launch — across 5+ M&A clients in a year",
+      "Ran enterprise discovery sessions and user interviews to translate complex stakeholder needs into prioritized requirements",
+      "Designed and implemented RBAC, clean room protocols, and data-sharing restrictions to meet compliance requirements across clients",
+      "Built and delivered Power BI dashboards surfacing org analytics to support executive decision-making during integrations",
+      "Served as primary client contact, aligning executives and cross-functional stakeholders on product direction",
+      "Mentored five junior PMs through delivery, contributing to $500K+ in new revenue"
+    ],
+    "statsnum1": "5+ clients", 
+    "statslabel1": "Implemented in one year",
+    "statsnum2": "$500K+", 
+    "statslabel2": "New revenue from team mentorship"
+  }
+]

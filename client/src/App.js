@@ -3,6 +3,7 @@ import NavTabs from "./components/NavTabs";
 import About from "./pages/About";
 import Portfolio from "./pages/Portfolio";
 import Contact from "./pages/Contact";
+import CaseStudies from "./pages/CaseStudies";
 import Footer from "./components/Footer";
 import Header from "./components/Header";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
@@ -19,6 +20,7 @@ function App() {
             <Route path="/about" component={About} />
             <Route path="/portfolio" component={Portfolio} />
             <Route path="/contact" component={Contact} />
+            <Route path="/casestudies" component={CaseStudies} />
           </Switch>
         </div>
       </Router>

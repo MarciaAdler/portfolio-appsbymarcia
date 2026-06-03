@@ -27,6 +27,11 @@ function NavTabs() {
           Portfolio
         </Link>
       </li>
+       <li className="nav-link tab-link">
+        <Link className="links" style={styles.link} to="/casestudies">
+          Case Studies
+        </Link>
+      </li>
       {/* <li className="nav-item nav-link">
         <Link style={styles.link} to="/contact">
           Contact
