@@ -39,6 +39,26 @@
       "statslabel2": "PM + full-stack engineer, end-to-end" 
   },
   {
+    "id": 4,
+    "tag": "Web3 · 0-to-1",
+    "tagColor": { "bg": "#FAEEDA", "color": "#854F0B" },
+    "title": "Nostr Relay Hosting — Non-Technical User Onboarding",
+    "company": "Countable (Investor-Funded) · 2023",
+    "`problem":
+      "Running a Nostr relay required deep technical knowledge — server configuration, protocol expertise, and infrastructure management. This locked out the vast majority of people who wanted to participate in the decentralized Nostr network but lacked the skills to do so.",
+    "bullets": [
+      "Sole PM on the product end-to-end — owned vision, roadmap, requirements, and stakeholder communication throughout",
+      "Designed a fully managed/hosted solution that abstracted all technical complexity, allowing non-technical users to launch their own relay with zero configuration",
+      "Led a cross-functional team of engineers and a designer from kickoff to a launch-ready product in 3–4 months",
+      "Built and executed a go-to-market strategy including a waitlist campaign and live showcase at Nostr World 2023",
+      "Product was fully built, waitlisted, and ready to ship — shut down solely due to investor pulling funding after unrelated work they were promoting at the conference was poorly received; our product was not a factor in their decision."      
+    ],
+    "statsnum1": "3–4 months", 
+    "statslabel1": "Kickoff to launch-ready",
+    "statsnum2": "Nostr World", 
+    "statslabel2": "Showcased globally in 2023"
+  },
+  {
     "id": 3,
     "tag": "Enterprise · M&A",
     "tagColor": { "bg": "#EEEDFE", "color": "#534AB7" },
