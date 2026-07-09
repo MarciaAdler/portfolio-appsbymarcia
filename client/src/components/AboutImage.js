@@ -1,5 +1,5 @@
 import React from "react";
-import me from "../images/me5.jpeg";
+import me from "../images/me5.png";
 
 const styles = {
   container: {},
