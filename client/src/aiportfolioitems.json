@@ -5,8 +5,16 @@
   "link": "https://productjobs.vercel.app/",
   "github": "https://github.com/MarciaAdler/productjobboard",
   "shortdescription": "Job board with a focus on roles in Product in the US and remote, that I built using Claude Code and deployed using Vercel and Railway.",
-  "technologies": "Claude code, React, node.js, Vercel, Railway",
+  "technologies": "Claude Code, React, node.js, Vercel, Railway",
   "skills": "Ralph Loop, front-end design skill"
+},
+{ 
+ "id": 2,
+  "name": "Job Agent Search Bot",
+  "titleimage": "../images/JobAgentSearchBot_header_image.jpeg",
+  "github": "https://github.com/MarciaAdler/job-search-agent-open",
+  "shortdescription": "An autonomous job search agent built on Claude Code. A guided setup interview builds your candidate profile, then it runs daily — pulling live postings directly from company ATS APIs and the web, scoring each against your background, and logging the best matches to a Notion database. Fully unattended after setup, triggered on wake with no fixed schedule to babysit",
+  "technologies": "Claude Code CLI, Bash, launchd, Notion (via MCP)"
 }
   
 ]
