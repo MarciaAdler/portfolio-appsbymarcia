@@ -25,7 +25,7 @@ const styles = {
     maxHeight: "60px",
   },
   card: {
-    height: "320px",
+    height: "360px",
     width: "365px",
     backgroundColor: "#FFFBFC",
     borderRadius: "30px",
@@ -84,9 +84,9 @@ function PortfolioItemsai(props) {
             <p style={styles.tech}>
               <i>Technologies used: {props.technologies}</i>
             </p>
-            <p style={styles.tech}>
+            {props.skills && <p style={styles.tech}>
               <i>Skills used: {props.skills}</i>
-            </p>
+            </p>}
           </div>
         </div>
         <div
