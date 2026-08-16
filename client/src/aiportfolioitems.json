@@ -13,8 +13,15 @@
   "name": "Job Agent Search Bot",
   "titleimage": "../images/JobAgentSearchBot_header_image.jpeg",
   "github": "https://github.com/MarciaAdler/job-search-agent-open",
-  "shortdescription": "An autonomous job search agent built on Claude Code. A guided setup interview builds your candidate profile, then it runs daily — pulling live postings directly from company ATS APIs and the web, scoring each against your background, and logging the best matches to a Notion database. Fully unattended after setup, triggered on wake with no fixed schedule to babysit",
+  "shortdescription": "An autonomous job search agent built on Claude Code. A guided setup interview builds your candidate profile, then it runs daily — pulling live postings directly from company ATS APIs and the web, scoring each against your background, and logging the best matches to a Notion database. Fully unattended after setup, triggered on wake with no fixed schedule to babysit.",
   "technologies": "Claude Code CLI, Bash, launchd, Notion (via MCP)"
-}
-  
+},
+{ 
+ "id": 3,
+  "name": "Clara - Personal Messaging Agent",
+  "titleimage": "../images/Clara_headerimage.png",
+  "github": "https://github.com/MarciaAdler/personal_messaging_agent",
+  "shortdescription": "An SMS assistant built using Claude Code. A guided /setup connects you own Twilio, Google Calendar, and Notion accounts, then it runs daily - texting a morning briefing, an afternoon to-do check, and a tomorrow preview pulled live from your calendar and Notion. Reply anytime to mark items done or add new ones. Read-only on calendar, add-only on tod-dos, by design.",
+  "technologies": "Claude API, Notion API, Google Calendar API, Twilio, Railway, Postgres"
+} 
 ]
